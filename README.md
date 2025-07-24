@@ -1,16 +1,5 @@
-# webview_app
+# 🌐 Flutter WebView Demo App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple Flutter application demonstrating how to use `WebView` to load websites inside a mobile app. This project is ideal for beginners learning to embed web content in a native mobile app.
+![WhatsApp Image 2025-07-24 at 07 03 11_457782f3](https://github.com/user-attachments/assets/7843d7d0-555f-4da9-9280-0325fbf34512)
+![WhatsApp Image 2025-07-24 at 07 03 10_bff4eb24](https://github.com/user-attachments/assets/cd4495ea-e2e1-4325-87f9-c9245b0c5943)
